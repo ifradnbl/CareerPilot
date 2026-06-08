@@ -1,4 +1,5 @@
 # CareerPilot
+<<<<<<< HEAD
 
 > Your Agentic Career Co-pilot — built for the Poridhi Codesprint.
 
@@ -57,3 +58,6 @@ src/
 - `POST /api/tracker` — persist Kanban + to-dos to a database
 
 See `Codesprint_poridhi.md` for the full problem statement.
+=======
+An AI-based job hunting platform, that only takes CV and desired job query from the user, and does the hectic job of analysing compatibility itself.
+>>>>>>> f55af2667ee016f6d0389ec6a3d8f37755e6d6ef
